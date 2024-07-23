@@ -41,9 +41,7 @@ Contributions are welcome! If you have suggestions for new features or improveme
 Fork the Project<br />   
 Create your Feature Branch (git checkout -b feature/AmazingFeature)<br />   
 Commit your Changes (git commit -m 'Add some AmazingFeature')<br />   
-Push to the Branch (git push origin feature/AmazingFeature)<br />   
-Open a Pull Request<br />   
-.
+Push to the Branch (git push origin feature/AmazingFeature)<br />     
 
 ## Contact
 NAME-SAHIL-ATTRI <br />   
