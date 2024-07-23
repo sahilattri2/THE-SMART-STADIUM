@@ -39,9 +39,9 @@ Food and Beverages: Order snacks and drinks.<br />
 Contributions are welcome! If you have suggestions for new features or improvements, please fork the repository and create a pull request. You can also open an issue to discuss any changes.
 
 Fork the Project<br />   
-Create your Feature Branch (git checkout -b feature/AmazingFeature)<br />   
-Commit your Changes (git commit -m 'Add some AmazingFeature')<br />   
-Push to the Branch (git push origin feature/AmazingFeature)<br />     
+Create your Feature Branch (git checkout -b feature/NewFeature)<br />   
+Commit your Changes (git commit -m 'Add some NewFeature')<br />   
+Push to the Branch (git push origin feature/NewFeature)<br />     
 
 ## Contact
 NAME: SAHIL-ATTRI <br />   
