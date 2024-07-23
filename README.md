@@ -29,24 +29,23 @@ To run this project locally, follow these steps:
 ## Usage
 Once the application is up and running, you can access the various features through the navigation menu. Here is a brief overview of each section:
 
-Login: Create a new account or log in with your existing credentials.
-Booking: View available events, select seats, and book tickets.
-Merchandise: Browse the catalog of available merchandise, add items to your cart, and proceed to checkout.
-Live Scores: Stay updated with real-time scores of ongoing events.
-Food and Beverages: Order snacks and drinks, and choose delivery to your seat.
-Chat Section: Join the community chat to discuss events, ask questions, or seek assistance.
+Login: Create a new account or log in with your existing credentials.<br />   
+Booking: Book tickets. <br />   
+Merchandise: Browse the catalog of available merchandise, add items to your cart.<br />   
+Live Scores: Stay updated with scores.<br />   
+Food and Beverages: Order snacks and drinks.<br />   
 
 ## Contributing
 Contributions are welcome! If you have suggestions for new features or improvements, please fork the repository and create a pull request. You can also open an issue to discuss any changes.
 
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
+Fork the Project<br />   
+Create your Feature Branch (git checkout -b feature/AmazingFeature)<br />   
+Commit your Changes (git commit -m 'Add some AmazingFeature')<br />   
+Push to the Branch (git push origin feature/AmazingFeature)<br />   
+Open a Pull Request<br />   
 .
 
 ## Contact
-NAME-SAHIL-ATTRI //
-attri1379@gmail.com//
+NAME-SAHIL-ATTRI <br />   
+attri1379@gmail.com<br />   
 Project Link: 
