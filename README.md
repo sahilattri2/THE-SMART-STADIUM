@@ -3,11 +3,11 @@ Welcome to the Smart Stadium Website! This project aims to enhance the stadium e
 
 
 ## Features
-Login: Secure user authentication and authorization.
-Booking: Reserve seats and tickets for events.
-Merchandise: Browse and purchase stadium merchandise.
-Live Scores: Get real-time updates on ongoing matches and events.
-Food and Beverages: Order food and drinks to your seat.
+Login: Secure user authentication and authorization.<br />   
+Booking: Reserve seats and tickets for events.<br />   
+Merchandise: Browse and purchase stadium merchandise. <br />   
+Live Scores: Get real-time updates on ongoing matches and events. <br />   
+Food and Beverages: Order food and drinks to your seat.<br />   
 
 ## Installation
 To run this project locally, follow these steps:
