@@ -45,5 +45,5 @@ Push to the Branch (git push origin feature/AmazingFeature)<br />
 
 ## Contact
 NAME: SAHIL-ATTRI <br />   
-attri1379@gmail.com<br />   
+EMAIL: attri1379@gmail.com<br />   
 Project Link: 
