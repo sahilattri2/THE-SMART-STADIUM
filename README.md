@@ -44,6 +44,6 @@ Commit your Changes (git commit -m 'Add some AmazingFeature')<br />
 Push to the Branch (git push origin feature/AmazingFeature)<br />     
 
 ## Contact
-NAME-SAHIL-ATTRI <br />   
+NAME: SAHIL-ATTRI <br />   
 attri1379@gmail.com<br />   
 Project Link: 
